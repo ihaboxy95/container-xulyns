@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ihaboxy95",
+  "repo": "container-xulyns",
+  "name": "ihaboxy95",
+  "email": "ihabkarimeddine@gmail.com",
+}
